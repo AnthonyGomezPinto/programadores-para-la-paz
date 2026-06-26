@@ -1,0 +1,9 @@
+La adopción de tecnologías abiertas como Node.js es de vital importancia para
+que las iniciativas ciudadanas adquieran autonomía técnica e independencia digital.
+Al construir sus propias herramientas tecnológicas, las comunidades no dependen de
+grandes corporaciones privadas ni de licencias costosas que limiten su crecimiento.
+Esto permite diseñar soluciones personalizadas que respondan directamente a problemas
+sociales específicos, optimizando la gestión de recursos de forma transparente. Además,
+el software libre democratiza el conocimiento, permitiendo que cualquier persona aprenda
+y colabore en el proyecto. En conclusión, desarrollar tecnologías propias con código
+abierto empodera a los ciudadanos y fomenta un ecosistema más justo e inclusivo.
