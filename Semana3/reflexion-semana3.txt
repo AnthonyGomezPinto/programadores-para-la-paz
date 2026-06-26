@@ -1,0 +1,9 @@
+Llevar un registro de cambios con Git es fundamental en el desarrollo de software
+porque garantiza la trazabilidad y la seguridad de todo el código de un proyecto.
+Esta herramienta permite que los programadores experimenten con nuevas funciones
+sin el miedo de dañar el trabajo previo, ya que siempre es posible regresar a una
+versión anterior que funcionaba de forma estable. Además, en entornos de trabajo
+colaborativo, Git coordina los aportes de múltiples desarrolladores simultáneamente,
+evitando que se sobrescriban archivos entre sí. En definitiva, el control de versiones
+aporta una estructura organizada y un historial transparente que minimiza errores,
+facilitando el mantenimiento de aplicaciones a largo plazo de manera profesional.
