@@ -1,0 +1,9 @@
+Las APIs representan un puente tecnológico vital para que las comunidades organizadas
+puedan gestionar y compartir información en tiempo real de manera estructurada. Al estandarizar
+la forma en que se envían y reciben datos, estas interfaces permiten centralizar alertas,
+reportes ciudadanos o recursos disponibles en un único servidor accesible para todos. Esto
+facilita que diferentes aplicaciones, páginas web o bots de mensajería se comuniquen entre
+sí sin fricciones, acelerando los tiempos de respuesta ante emergencias vecinales. Además,
+mantener un flujo de datos limpio y ordenado promueve la transparencia y empodera a los
+ciudadanos para tomar decisiones informadas basados en estadísticas reales. En resumen, una
+API bien estructurada transforma el tejido social en una red digital eficiente y colaborativa.
