@@ -1,0 +1,11 @@
+Pregunta 1: ¿Qué es una ruta (route) en Express?
+Respuesta: B. Una dirección que define cómo responde el servidor a una solicitud
+
+Pregunta 2: ¿Qué método HTTP se usa normalmente para consultar información?
+Respuesta: B. GET
+
+Pregunta 3: ¿Qué método HTTP se usa normalmente para enviar o registrar información?
+Respuesta: A. POST
+
+Pregunta 4: ¿Qué significa API?
+Respuesta: B. Interfaz que permite que sistemas o aplicaciones se comuniquen entre sí

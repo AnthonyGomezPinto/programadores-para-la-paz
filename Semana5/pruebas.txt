@@ -1,0 +1,8 @@
+Resultados de las pruebas en las rutas del servidor:
+
+1. http://localhost:3000 -> El navegador muestra el texto estático "Servidor activo",
+indicando que la ruta raíz funciona correctamente.
+2. http://localhost:3000/saludo -> El servidor responde devolviendo el mensaje "Hola comunidad".
+3. http://localhost:3000/mensaje/juan -> El servidor lee el parámetro dinámico ":nombre" 
+de la URL y responde de forma personalizada diciendo "Hola juan". Si cambio "juan" por 
+cualquier otra palabra, el servidor se adapta dinámicamente.
