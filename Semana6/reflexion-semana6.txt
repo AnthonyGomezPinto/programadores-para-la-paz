@@ -1,0 +1,9 @@
+La recepción de datos e información ciudadana de forma estructurada mediante formatos
+como JSON es indispensable para que las plataformas tecnológicas operen eficientemente.
+Cuando un reporte llega con un orden predefinido, los sistemas informáticos pueden procesar,
+clasificar y almacenar las alertas de manera automática sin requerir intervención humana inicial.
+Esto permite que problemas críticos, como fallas de infraestructura o emergencias vecinales,
+se filtren instantáneamente y se deriven de inmediato a los departamentos encargados de resolverlos.
+Además, la información organizada facilita la creación de bases de datos estadísticas y mapas
+de calor para identificar las zonas con mayores necesidades. En conclusión, estructurar los datos
+optimiza los recursos públicos, acelera las soluciones y garantiza una gestión transparente.

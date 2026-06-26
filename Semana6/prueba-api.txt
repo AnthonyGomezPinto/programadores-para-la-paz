@@ -1,0 +1,8 @@
+Análisis de la respuesta del servidor en /registro:
+Al enviar una petición POST a la dirección http://localhost:3000/registro con un objeto JSON que contiene las propiedades "nombre" y "mensaje", el servidor procesa exitosamente el cuerpo del mensaje gracias al middleware express.json(). Posteriormente, el backend responde devolviendo un estado HTTP 200 con un nuevo objeto estructurado que confirma la recepción. El servidor devuelve exactamente esto:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
