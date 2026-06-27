@@ -1,0 +1,11 @@
+Análisis del comportamiento del servidor en memoria:
+
+Cuando se realiza una consulta mediante el método GET a la ruta http://localhost:3000/reportes 
+por primera vez, el servidor devuelve un array completamente vacío [], ya que no se han
+ introducido datos. Tras enviar solicitudes POST con información estructurada, el servidor
+  procesa los objetos y los empuja dentro del arreglo global. Al repetir la consulta GET, el 
+  backend responde con una lista JSON que contiene todos los reportes registrados secuencialmente 
+  junto a sus respectivos IDs incrementales. 
+
+Nota: Si el proceso del servidor se detiene en la terminal mediante Ctrl + C, el array se reinicia
+por completo y los datos cargados desaparecen de la memoria RAM.
