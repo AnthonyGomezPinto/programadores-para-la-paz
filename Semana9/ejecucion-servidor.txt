@@ -1,0 +1,20 @@
+Bitácora de ejecución del servidor local:
+
+1. ¿Qué ocurre cuando ejecutas 'node server.js'?
+El entorno de Node.js compila e inicia el script del archivo. El sistema operativo 
+asigna los recursos necesarios y levanta un proceso en segundo plano que bloquea la 
+terminal, quedando en un estado de escucha permanente para atender solicitudes HTTP 
+entrantes.
+
+2. ¿Qué mensaje aparece en la terminal?
+Aparece el mensaje de confirmación programado en el callback del listener: "Servidor 
+ejecutándose en puerto 3000".
+
+3. ¿Qué sucede cuando visitas la ruta /estado?
+El navegador envía una petición GET al endpoint, el enrutador de Express la procesa 
+y el servidor responde enviando un objeto de tipo JSON que se renderiza directamente 
+en la pantalla con el siguiente contenido:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}

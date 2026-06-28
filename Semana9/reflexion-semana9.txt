@@ -1,0 +1,9 @@
+La estabilidad y seguridad de un servidor que aloja plataformas comunitarias es
+crucial, dado que estas herramientas digitales sirven como canales de comunicación y
+mecanismos de gestión directa para los ciudadanos. Si un servidor falla de manera constante,
+se interrumpe la recepción de alertas ciudadanas críticas y reportes de emergencias,
+generando desconfianza colectiva en las herramientas tecnológicas participativas locales. Asimismo,
+un entorno de servidor seguro previene ataques cibernéticos malintencionados que busquen manipular
+información social o vulnerar la privacidad de los datos personales suministrados por los habitantes.
+En conclusión, mantener servidores robustos garantiza la resiliencia técnica de la plataforma,
+consolidando el entorno digital como un espacio democrático, confiable e ininterrumpido.
