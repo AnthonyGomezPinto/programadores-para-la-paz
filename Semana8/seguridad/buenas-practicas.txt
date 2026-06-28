@@ -1,0 +1,6 @@
+1. Proteger contraseñas utilizando gestores de claves seguros y autenticación
+de dos factores (2FA).
+2. No compartir credenciales de acceso ni claves API a través de canales de 
+mensajería pública o repositorios abiertos.
+3. Mantener el software del sistema operativo y las dependencias del proyecto 
+actualizadas a sus últimas versiones estables.

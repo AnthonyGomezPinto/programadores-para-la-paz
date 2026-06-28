@@ -1,0 +1,10 @@
+1. No exponer datos personales: Anonimizar o restringir la visualización de información
+ confidencial de los usuarios dentro de la interfaz pública.
+2. Proteger credenciales: Implementar políticas estrictas de contraseñas robustas y 
+cifrado de datos en tránsito y almacenamiento.
+3. Usar conexiones seguras: Configurar certificados SSL/TLS para obligar al uso del 
+protocolo HTTPS en todo el sitio web comunitario.
+4. Registrar accesos: Mantener un historial (logs) auditable de inicios de sesión y 
+modificaciones de datos para identificar anomalías.
+5. Limitar acceso a información sensible: Aplicar el principio de menor privilegio, 
+dando permisos de administración solo a roles estrictamente necesarios.

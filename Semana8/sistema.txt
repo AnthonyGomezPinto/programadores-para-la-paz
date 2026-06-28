@@ -1,0 +1,14 @@
+Análisis de comandos de diagnóstico de Linux:
+
+1. ¿Qué información muestra cada comando?
+- 'uname -a': Muestra información detallada sobre el núcleo (kernel) del sistema operativo, 
+incluyendo el nombre del host, la versión del kernel, la arquitectura del hardware (ej. x86_64) 
+y el sistema operativo de base.
+- 'whoami': Devuelve el nombre exacto del usuario actual que tiene la sesión activa en la 
+terminal y que está ejecutando los procesos.
+
+2. ¿Por qué es útil conocer esta información al administrar un servidor?
+Es fundamental porque permite saber si el hardware soporta ciertas aplicaciones, si el sistema 
+operativo requiere parches de seguridad críticos según la versión de su kernel y verificar si 
+contamos con los privilegios de administrador (root) necesarios para instalar paquetes o modificar 
+configuraciones sensibles de la plataforma.
