@@ -1,0 +1,20 @@
+PLANIFICACIÓN DE LA ITERACIÓN
+
+1. ¿Qué 2 tareas del backlog harías primero?
+Implementaría primero la Historia de Usuario 1 (Registro de incidencias por el ciudadano) e 
+inmediatamente después la Historia de Usuario 2 (Alerta automatizada en Telegram para el coordinador).
+
+2. ¿Por qué son las más importantes?
+Porque constituyen el núcleo mínimo funcional (MVP) de la solución. Sin la capacidad de capturar 
+el reporte ciudadano, la plataforma no tiene datos que procesar; y sin la alerta inmediata, 
+se pierde la oportunidad de reaccionar a tiempo, haciendo que el proceso inicial pierda dinamismo.
+
+3. Definición de tarea "TERMINADA" (Criterios de Aceptación):
+Para considerar que una funcionalidad está completamente terminada, debe cumplir con los siguientes 
+4 criterios estrictos:
+- Funciona: El código compila sin errores y cumple exactamente con la lógica que pide el usuario.
+- Fue probada: Se testearon las rutas (endpoints) localmente con herramientas de respuesta HTTP y 
+respondieron con éxito.
+- Quedó registrada en Git: Los cambios se guardaron localmente mediante commits limpios y descriptivos.
+- Está publicada: El código ya fue enviado con éxito a la rama principal en GitHub y es visible 
+en el repositorio.

@@ -1,0 +1,9 @@
+Las metodologías ágiles, combinadas con herramientas de automatización y canales
+de comunicación directa, son fundamentales para estructurar los procesos de participación
+ciudadana. El backlog y las iteraciones cortas le permiten a una comunidad enfocarse en
+metas tecnológicas alcanzables, evitando la frustración y garantizando entregas de valor
+continuas. Por su parte, la automatización con herramientas como n8n optimiza el tiempo de
+los coordinadores, liberándolos de tareas repetitivas y permitiendo una reacción inmediata
+ante las necesidades del entorno. Finalmente, plataformas como Telegram transforman alertas
+técnicas en notificaciones accesibles para cualquier persona, cerrando la brecha digital. En
+definitiva, esta sinergia técnica organiza el tejido social, aportando orden y transparencia.
