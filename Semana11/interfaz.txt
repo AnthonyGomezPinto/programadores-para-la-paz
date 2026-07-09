@@ -1,0 +1,14 @@
+DISEÑO DE INTERFAZ BÁSICA
+La interfaz de la plataforma estará estructurada en tres bloques principales para garantizar su 
+usabilidad y claridad:
+
+1. Formulario de Creación: Una sección accesible con campos para que los líderes comunitarios 
+ingresen el título, la descripción y la fecha de una nueva causa.
+2. Vista de Causas Disponibles: Un catálogo o panel principal donde los ciudadanos pueden explorar 
+las causas activas presentadas de forma limpia y ordenada.
+3. Componente de Interacción (Botón y Contador): Cada causa listada incluirá un botón claro con la 
+etiqueta "Apoyar Causa" acompañado de un contador numérico en tiempo real que refleje la cantidad 
+acumulada de respaldos.
+
+Toda la interfaz estará diseñada sin exponer datos personales ni correos de los votantes, 
+garantizando una experiencia accesible, intuitiva y segura.

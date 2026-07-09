@@ -1,0 +1,10 @@
+MECANISMOS DE AUTENTICACIÓN Y SEGURIDAD
+
+El proceso de login o inicio de sesión permite identificar con certeza a un usuario registrado 
+antes de otorgarle acceso a funcionalidades específicas del sistema.
+Proteger determinadas rutas es fundamental porque estas pueden contener módulos administrativos, 
+historiales de auditoría o acciones avanzadas que no deben estar disponibles de forma pública ni 
+para visitantes anónimos.
+En una plataforma comunitaria se deben resguardar estrictamente las credenciales de acceso, números 
+de identificación, direcciones físicas, números de teléfono, claves API, tokens de sesión y 
+cualquier dato personal sensible de los participantes.

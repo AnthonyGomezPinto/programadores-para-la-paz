@@ -1,0 +1,21 @@
+MODELO DE DATOS SIMPLIFICADO
+
+Entidad: Causa
+Campos principales:
+- id (Número o Hash): Identificador único de la causa.
+- titulo (Texto): Nombre o título descriptivo de la iniciativa ciudadana.
+- descripcion (Texto): Explicación detallada del propósito y las metas de la causa.
+- fecha (Fecha): Momento en que fue creada o publicada.
+Propósito:
+Almacenar de forma permanente las causas e iniciativas comunitarias que serán visibles para el 
+público dentro de la plataforma.
+
+Entidad: Apoyo
+Campos principales:
+- id (Número o Hash): Identificador único del registro de apoyo.
+- causa_id (Número): Clave foránea que vincula el apoyo con una causa específica.
+- usuario (Texto/Pseudónimo): Identificador no sensible del participante que apoya.
+- fecha (Fecha): Registro del momento exacto en que se realiza el apoyo.
+Propósito:
+Registrar los apoyos colectivos que recibe cada causa, garantizando la trazabilidad y la medición 
+clara de la participación sin exponer datos sensibles.

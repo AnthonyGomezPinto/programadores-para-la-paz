@@ -1,0 +1,9 @@
+El desarrollo de una plataforma tecnológica enfocada en la participación ciudadana exige
+una base técnica sólida que integre bases de datos, autenticación y protección de información.
+La base de datos proporciona persistencia y estructura, asegurando que las propuestas y
+respaldos de la comunidad no se pierdan y puedan ser auditados de manera transparente.
+Por su parte, la autenticación valida la identidad de los colaboradores, evitando la suplantación
+o la duplicación malintencionada de interacciones en el sistema. Finalmente, proteger los datos
+sensibles es un compromiso ético indispensable que cuida la privacidad y seguridad física
+de los líderes sociales. En conclusión, la combinación de estas tres dimensiones convierte a
+la herramienta digital en un entorno confiable, seguro y verdaderamente transformador.
