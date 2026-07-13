@@ -1,0 +1,19 @@
+MODELO DE DATOS DE LA PLATAFORMA
+
+Entidad 1: Causa
+Atributos:
+- id (Número/Identificador único): Clave primaria para indexar la petición.
+- titulo (Texto): Nombre descriptivo de la solicitud comunitaria.
+- descripcion (Texto): Explicación detallada del problema y la solución requerida.
+- fecha (Fecha): Momento en que la causa fue publicada.
+Utilidad: Almacena el expediente principal de cada problemática ciudadana para hacerla visible y 
+permitir el recaudo de apoyos.
+
+Entidad 2: Apoyo
+Atributos:
+- id (Número/Identificador único): Registro secuencial del voto o respaldo.
+- causa_id (Número): Clave foránea que vincula el voto con una causa específica.
+- nombre (Texto/Pseudónimo): Nombre no sensible o alias del ciudadano respaldante.
+- fecha (Fecha): Marca de tiempo del respaldo.
+Utilidad: Contabiliza de forma ordenada la participación ciudadana y sirve como sustento de 
+respaldos para la validez de la petición.

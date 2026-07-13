@@ -1,0 +1,13 @@
+FLUJO DE AUTOMATIZACIÓN (n8n / TELEGRAM)
+
+1. Evento Activador:
+El flujo se activa de manera automática mediante un Webhook cuando se registra una nueva causa o 
+cuando una petición existente alcanza el umbral de apoyos necesarios para la generación del PDF.
+2. Mensaje Enviado:
+Se envía una notificación de actualización al canal de Telegram de la comunidad:
+"¡Meta alcanzada! La petición 'Mejoramiento de Alumbrado Público' ha reunido los apoyos necesarios. 
+El documento PDF ha sido generado y está listo para revisión y entrega."
+3. Información Excluida por Seguridad:
+Para resguardar la privacidad y evitar vulnerabilidades, la automatización excluye deliberadamente: 
+números de documento de identidad (cédulas), teléfonos de contacto, direcciones de residencia, 
+correos electrónicos personales y claves o tokens de acceso a la infraestructura del servidor.

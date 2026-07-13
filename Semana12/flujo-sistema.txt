@@ -1,0 +1,21 @@
+FLUJO OPERATIVO DE "PETICIÓN EN 3 CLICS"
+
+Paso 1 - Registro de la Causa:
+Un líder o ciudadano ingresa a la plataforma y crea una causa comunitaria diligenciando 
+únicamente el título, la descripción del problema y la meta de respaldos esperada.
+
+Paso 2 - Almacenamiento en Base de Datos:
+La API procesa la solicitud, asigna un ID único a la causa y la almacena de forma permanente 
+en la base de datos para su publicación.
+
+Paso 3 - Adhesión y Apoyo Ciudadano:
+Otros miembros de la comunidad ingresan al enlace público de la causa y registran su respaldo 
+en un solo clic, incrementando el contador en tiempo real.
+
+Paso 4 - Generación Automatizada del Documento (PDF):
+Al alcanzar la meta de apoyos, el sistema compila la información registrada y genera 
+automáticamente un documento PDF estandarizado con la petición formal.
+
+Paso 5 - Notificación y Radicación:
+El sistema envía una alerta automatizada a través de n8n/Telegram informando al coordinador que el 
+documento formal está listo para ser presentado ante las entidades correspondientes.

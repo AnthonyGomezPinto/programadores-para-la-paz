@@ -1,0 +1,9 @@
+A lo largo de este curso aprendí que la tecnología es un catalizador fundamental para
+fortalecer el tejido social, la transparencia y la organización comunitaria. La integración
+de herramientas de código abierto como Node.js, Express y bases de datos permite que las
+comunidades construyan sus propios canales de gestión, reduciendo la dependencia de trámites
+burocráticos o plataformas privadas costosas. Asimismo, comprendí la enorme responsabilidad que
+conlleva administrar datos ciudadanos, aplicando principios de ciberseguridad, anonimización y
+minimización de información sensible para proteger a los líderes locales. En conclusión, la
+tecnología puesta al servicio del interés colectivo transforma simples peticiones en evidencias
+formales con capacidad real de incidir e impulsar el bienestar de nuestros territorios.
